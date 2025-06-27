@@ -44,3 +44,4 @@ In the Page Builder, you have several options for integrating video content:
 
 * Externally hosted thumbnails must be served via HTTPS to ensure they remain visible.
 * Editing an external thumbnail in the builder saves it locally, removing it from the external server.
+* Ensure videos are publicly available and not marked with "domain privacy". Videos with "domain privacy" are not compatible with the builder.&#x20;

@@ -23,6 +23,7 @@ When the stage is focused:
 
 * Draggable elements usually have a **drag handle**. When a drag handle is focused, press **Enter** to start dragging.
 * Once dragging has started, **ArrowUp** and **ArrowDown** cycle through possible drop positions.
+* While dragging **in the stage**, you can press **t** (top) or **b** (bottom) to switch between dropping **above or below** the target element.
 * Press **Enter** to drop the element in the new position, or **Escape** to cancel.
 
 ### **Sidebar Sortable Elements**
