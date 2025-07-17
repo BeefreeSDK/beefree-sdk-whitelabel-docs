@@ -17,7 +17,7 @@
 
 * [Undo, Redo, and History](design-tools/undo-redo-and-history.md)
 * [Mobile Optimization Options](design-tools/mobile-optimization-options.md)
-* [Mobile Design Mode](preview-options/mobile-design-mode.md)
+* [Mobile Design Mode](design-tools/mobile-design-mode.md)
 * [Configuring Settings](design-tools/configuring-settings.md)
 * [Borders](design-tools/borders.md)
 * [Padding](design-tools/padding.md)
