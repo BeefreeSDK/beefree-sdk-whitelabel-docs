@@ -27,10 +27,163 @@ Here are a few scenarios where custom HTML can be valuable:
 
 When adding custom HTML to emails, a code sanitizer checks and automatically corrects your code. Unsupported tags like \<script> and \<iframe> are removed to avoid security risks and deliverability issues.
 
-Allowed HTML Tags: (for emails only)
+### Allowed HTML Tags: (for emails only)
 
-* **Tags:** a, abbr, address, area, b, bdo, etc.
-* **Attributes:** style, id, class, data-\*, title, href, name, target, etc.
+<details>
+
+<summary>List of allowed tags</summary>
+
+```
+    a
+    abbr
+    acronym
+    address
+    area
+    article
+    aside
+    b
+    base
+    basefont
+    bdo
+    big
+    blockquote
+    br
+    button
+    caption
+    center
+    cite
+    code
+    col
+    colgroup
+    dd
+    del
+    details
+    dfn
+    dialog
+    dir
+    div
+    dl
+    dt
+    em
+    embed
+    fieldset
+    figcaption
+    figure
+    footer
+    font
+    form
+    head
+    header
+    h1
+    h2
+    h3
+    h4
+    h5
+    h6
+    hgroup
+    hr
+    html
+    i
+    img
+    input
+    ins
+    kbd
+    keygen
+    label
+    legend
+    li
+    link
+    main
+    map
+    mark
+    menu
+    meta
+    nav
+    object
+    ol
+    optgroup
+    option
+    p
+    param
+    picture
+    pre
+    progress
+    q
+    s
+    samp
+    section
+    select
+    small
+    source
+    span
+    strike
+    strong
+    style
+    sub
+    summary
+    sup
+    table
+    tbody
+    td
+    template
+    textarea
+    tfoot
+    th
+    thead
+    time
+    title
+    tr
+    track
+    tt
+    u
+    ul
+    var
+    video
+```
+
+</details>
+
+<details>
+
+<summary>List of allowed attributes</summary>
+
+```
+*:          style, id, class, data-*, title
+div:        itemscope, itemtype
+meta:       itemprop, content
+a:          href, name, target
+img:        align, alt, border, height, hspace, src, vspace, width, usemap
+table:      align, bgcolor, border, cellpadding, cellspacing, width
+tbody:      align, valign
+td:         align, bgcolor, colspan, height, rowspan, valign, width
+tr:         align, bgcolor, valign
+tfoot:      align, valign
+th:         align, bgcolor, colspan, height, rowspan, valign, width
+thead:      align, valign
+li:         type
+video:      autoplay, controls, height, loop, muted, poster, preload, src, width
+source:     media, src, type
+map:        name
+area:       alt, coords, href, shape, target
+ol:         start
+input:      alt, type, checked, multiple, value, name]
+```
+
+</details>
+
+<details>
+
+<summary>List of allowed link protocols</summary>
+
+```
+http, https, ftp, mailto, tel, sms
+```
+
+</details>
+
+{% hint style="info" %}
+**Note:** If the sanitizer is off, you can add any HTML you'd like. However, this is not recommended, because it can result in rendering issues. The sanitizer is intended to support you in using reliable HTML tags for rendering.
+{% endhint %}
 
 ## Using Custom HTML with Pages
 

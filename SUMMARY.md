@@ -17,7 +17,7 @@
 
 * [Undo, Redo, and History](design-tools/undo-redo-and-history.md)
 * [Mobile Optimization Options](design-tools/mobile-optimization-options.md)
-* [Mobile Design Mode](design-tools/mobile-design-mode.md)
+* [Mobile Design Mode](preview-options/mobile-design-mode.md)
 * [Configuring Settings](design-tools/configuring-settings.md)
 * [Borders](design-tools/borders.md)
 * [Padding](design-tools/padding.md)
@@ -25,6 +25,7 @@
 * [Content Area Padding](design-tools/content-area-padding.md)
 * [Line Height](design-tools/line-height.md)
 * [HTML Importer](design-tools/html-importer.md)
+* [Add Custom Head HTML](design-tools/add-custom-head-html.md)
 
 ## Dynamic Content
 
