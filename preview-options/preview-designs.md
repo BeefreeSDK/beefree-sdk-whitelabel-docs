@@ -1,16 +1,27 @@
-# Preview
+# Preview Designs
 
-Use Preview to see how your design will appear on both mobile and desktop devices.
+Use the Preview option to experience your design as your audience would. It lets you test and interact with different versions of your content before finalizing and sending it.
 
-<figure><img src="https://lh7-eu.googleusercontent.com/gUhoAFLEkK72B12pFH1GssV2EnjiKKhZe3OrwaeuVbh4MP2EDEicsa6a7NY3icbiSHo2etupptPDeyJKM-Xz05h594ZXmKJ2WguEOlOHGNAV4lnNQYIoJi9_YIBRdr5kJcmf1leOiK48Ekv506sSBjk" alt=""><figcaption></figcaption></figure>
+With Preview, you can:
 
-#### Functionality
+* View your design in multiple languages
+* Apply and test different conditions (for example, dynamic content blocks)
+* Switch between AMP and HTML formats
+* Toggle between light mode and dark mode
+* See how your design looks on various device types (mobile, tablet, desktop)
+* Use custom viewports to simulate specific screen sizes
 
-* Toggle between light and dark mode to assess design impact.
-* If using display conditions, preview their effect as well.
+This ensures your content is polished, accessible, and works perfectly for every recipient.
 
-#### Limitations
+<figure><img src="../.gitbook/assets/New_preview_true_no_selection.png" alt=""><figcaption></figcaption></figure>
 
-Note that the preview approximates based on popular devices and platforms. This is especially relevant for email designs and dark mode, as different devices and email clients may render your design differently.
+#### Preview Functionality
 
-\
+Through the preview option, you can view how your design will look when coupled with the following features:
+
+* [Multi-language templates](../design-for-any-language/multi-language-templates.md): Applicable when you have one design available in multiple languages.
+* [Display conditions](../dynamic-content/display-conditions.md): Applicable when you have one or more rows in your design with display conditions applied.
+* [AMP or HTML view](broken-reference): This option is available when you have AMP in your email designs.
+* [Dark mode](dark-mode-preview.md): Preview your design in dark mode.
+* [Desktop, tablet, or mobile view](mobile-design-mode.md): Preview your design on multiple device types.
+* **Custom viewport**: Customize the viewport window size for previewing your design within different window types.&#x20;
