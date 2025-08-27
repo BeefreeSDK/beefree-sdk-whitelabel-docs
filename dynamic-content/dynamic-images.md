@@ -9,7 +9,7 @@ Dynamic images serve a unique purpose by allowing real-time updates to the visua
 
 Essentially, they can change when viewed by the content recipient or viewer, offering highly personalized interaction without requiring individual design adjustments.
 
-* **Use-Cases:** Examples of dynamic images include personalized greeting cards, countdown timers to events, dynamic advertisements, and product recommendations. The ability to generate these dynamically creates a more engaging and interactive experience for the end-user.
+* **Use-Cases:** Examples of dynamic images include personalized greeting cards, countdown timers to events, dynamic advertisements, and product recommendations. The ability to generate these dynamically creates a more engaging and interactive experience for the viewer or recipient.
 * **Technical Overview:** A Dynamic URL contains variables that the sending platform replaces when the recipient views the design. So, instead of a static URL like https://site.com/image.jpg, you'd have a URL with variables, such as https://site.com/image?customerID=\{{customer\_ID\}}.
 * **Configurations:**
   * **Dynamic Image Toggle:** Accessible in the "Content Properties," toggle this ON or OFF based on your requirement.
