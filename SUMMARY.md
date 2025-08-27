@@ -30,6 +30,7 @@
 ## Dynamic Content
 
 * [Display Conditions](dynamic-content/display-conditions.md)
+* [Dynamic Images](dynamic-content/dynamic-images.md)
 
 ## Content Blocks
 
