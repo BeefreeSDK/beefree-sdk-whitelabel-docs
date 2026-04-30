@@ -2,8 +2,7 @@
 
 ## Overview
 
-The Custom HTML content block enables you to insert your own HTML code into designs crafted in the builder. While it's as straightforward as adding a text block, this feature is primarily intended for those proficient in HTML. Using custom HTML can impact how your design adjusts to various screen sizes, so make sure the HTML you use is responsive and email compliant. Note that custom HTML typically falls outside of standard support.\
-
+The Custom HTML content block enables you to insert your own HTML code into designs crafted in the builder. While it's as straightforward as adding a text block, this feature is primarily intended for those proficient in HTML. Using custom HTML can impact how your design adjusts to various screen sizes, so make sure the HTML you use is responsive and email compliant. Note that custom HTML typically falls outside of standard support.<br>
 
 <figure><img src="https://lh7-eu.googleusercontent.com/-8YjBcyUDf7hjR8sKq-MNvOLCywdqJNX9WK6sJAqvwm_Ge3WrGnTw-eUYtYXaJ7T3LJfw87LL7mCsxtpQF3YuQTtN2zqkFZS-g0hnSZDIutDIvaqkDbQXD9IbgiYgJbm-T023WsJ8HSBjgpZpCp0rsg" alt=""><figcaption></figcaption></figure>
 
@@ -27,7 +26,7 @@ Here are a few scenarios where custom HTML can be valuable:
 
 When adding custom HTML to emails, a code sanitizer checks and automatically corrects your code. Unsupported tags like \<script> and \<iframe> are removed to avoid security risks and deliverability issues.
 
-### Allowed HTML Tags: (for emails only)
+### Allowed HTML Tags by Default (for emails only)
 
 <details>
 
@@ -187,7 +186,7 @@ http, https, ftp, mailto, tel, sms
 
 ## Using Custom HTML with Pages
 
-The Page Builder doesn't employ a sanitizer, offering more freedom but also more responsibility. You can use any HTML, CSS, or JavaScript syntax when designing landing pages.
+The sanitizer is turned off for Page Builder by default, offering more freedom but also more responsibility. You can use any HTML, CSS, or JavaScript syntax when designing landing pages.
 
 ## Accessibility Keys for Custom HTML Content Blocks
 
