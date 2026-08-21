@@ -2,8 +2,7 @@
 
 #### Overview
 
-Co-editing is a feature that enables multiple users to work on the same design simultaneously. Designed to enhance team collaboration and streamline the design process, this feature shows real-time edits made by all participants. In addition to seeing live changes, co-editing also integrates with a commenting feature for more efficient communication. A maximum of 5 users can participate in a single co-editing session.\
-
+Co-editing is a feature that enables multiple users to work on the same design simultaneously. Designed to enhance team collaboration and streamline the design process, this feature shows real-time edits made by all participants. In addition to seeing live changes, co-editing also integrates with a commenting feature for more efficient communication. A maximum of 5 users can participate in a single co-editing session.<br>
 
 <figure><img src="https://lh7-eu.googleusercontent.com/YHPDGiw6MlqyHlhdy-gCJDLm40k88kNLruGxbYxve3G53uUBT3AWaMcZSGmywOmmGdwlgToYScILtoM0M_6jhQTdwy0dRjX6bt_DOs8lKbpkbEq-m_af6NZPyinTQUPLt3lz_iItnODJ8MlYc3-dmdM" alt=""><figcaption></figcaption></figure>
 
@@ -17,8 +16,7 @@ All changes made during a co-editing session are automatically updated across th
 
 #### Integration with Commenting
 
-Co-editing works seamlessly with the Commenting feature in the builder. Each user’s comments are tagged with an avatar matching their co-editing avatar. These colors are system-assigned and cannot be changed, providing a consistent method for identifying who made each comment.\
-
+Co-editing works seamlessly with the Commenting feature in the builder. Each user’s comments are tagged with an avatar matching their co-editing avatar. These colors are system-assigned and cannot be changed, providing a consistent method for identifying who made each comment.<br>
 
 <figure><img src="https://lh7-eu.googleusercontent.com/j29p5AvQ-XiXkadFlWUCMyAnRgH5Ts30hioA0eWMpQ_O6NNZC6PYj1gprFWwDrzseKOy_Tj4-EV3SBS7UH_egNVh0w67avN1dh02VNU7_jj1qy-ESfq6piac-fyBt3hcZvGVN1EvX_GoFrJcIAMHWQA" alt=""><figcaption></figcaption></figure>
 
@@ -30,4 +28,4 @@ The undo and redo features are deactivated during a multi-user co-editing sessio
 
 However, these features work as expected if you are the only one in the builder, restoring their functionality when the co-editing session has only one participant.
 
-\
+<br>

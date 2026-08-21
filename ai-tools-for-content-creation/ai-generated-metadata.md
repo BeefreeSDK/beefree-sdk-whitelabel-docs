@@ -45,7 +45,7 @@ You will have the following options to select from in the drop-down mentioned in
 
 The following GIF displays an example of adding a title and meta description at the same time using AI.
 
-![](https://devportal.beefree.io/hc/article\_attachments/16720997045010)
+<img src="https://devportal.beefree.io/hc/article_attachments/16720997045010" alt="" height="323" width="602">
 
 ### Email Builder <a href="#h_01hneg4ej9r5q6mn13kqgsmsc3" id="h_01hneg4ej9r5q6mn13kqgsmsc3"></a>
 
@@ -84,7 +84,7 @@ The following GIF displays an example of adding a subject and preheader at the s
 
 While using this feature, you may experience token limitations. Each Title, Subject, Preheader, and Description you generate using this feature requires tokens to generate the text using AI. If you do not have enough tokens in your account, you will not be able to generate these fields. The application will; however, inform you about your available tokens and redirect you to purchase more if you do not have sufficient to complete your current task. &#x20;
 
-![](https://devportal.beefree.io/hc/article\_attachments/16720997045266)
+<img src="https://devportal.beefree.io/hc/article_attachments/16720997045266" alt="" height="321" width="602">
 
 ## Tone of Voice
 

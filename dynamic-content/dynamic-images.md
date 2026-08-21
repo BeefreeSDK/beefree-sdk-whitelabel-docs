@@ -2,8 +2,7 @@
 
 ### Working with Dynamic Images
 
-Dynamic images serve a unique purpose by allowing real-time updates to the visual content based on specific variables such as customer ID, dates, or other personalized information. \
-
+Dynamic images serve a unique purpose by allowing real-time updates to the visual content based on specific variables such as customer ID, dates, or other personalized information. <br>
 
 <figure><img src="https://lh7-eu.googleusercontent.com/Kol_Tdw2yi5j3afFu-vQMuPn9vH-jYOWUDpbEOudel1HWHELzP9N2cY_K3HZ0bkAL2xmKZFNs34tgGN9_GMzQhiUqjI-POO8Fz_GZIrkiQJVBe4TQwrj11yYDlA-kQxpZxJxPz0k9FTchpGzTKuJJrg" alt=""><figcaption></figcaption></figure>
 

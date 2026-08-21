@@ -12,8 +12,7 @@ In the builder interface, you'll find toggle icons in the upper left-hand corner
 
 When you are in mobile view, you can proceed to use the builder's features just as you would in desktop view. The only exception is that the content area width option is unavailable.
 
-Settings that can be applied specifically to the mobile version of the design are marked with a mobile indicator icon in the sidebar.\
-
+Settings that can be applied specifically to the mobile version of the design are marked with a mobile indicator icon in the sidebar.<br>
 
 <figure><img src="https://lh7-eu.googleusercontent.com/e4uwgPsdNTF-QdG9-VHEohlhnrTWJmvQXoiRIKaYXH1iWYXGmzekcwHUbhAIxj5LJoLeYKSsGwvKUQsejtIRvQYmS7XehHTnYxqnZt2xoe3MjT00gWwUrelo0o-_vR1VApvZnpHoOEVGwU5vW8NV8qw" alt=""><figcaption></figcaption></figure>
 
@@ -25,8 +24,7 @@ Next to the design mode toggle, you'll find a visibility icon resembling an eye.
 
 Content that's hidden depending on the device type appears translucent in the design mode. For example, if you have two logos, one optimized for desktop and one for mobile, and you hide them appropriately, they will appear translucent in the opposite design mode.
 
-If you wish to edit this hidden content, you'll need to switch to the design mode where it's visible. However, settings for these content blocks can be changed from any view.\
-
+If you wish to edit this hidden content, you'll need to switch to the design mode where it's visible. However, settings for these content blocks can be changed from any view.<br>
 
 <figure><img src="https://lh7-eu.googleusercontent.com/2HdVMqvaynfYnnL0yZLtkBGfRaEMSyEgOd2QU38qThCqaMBI9ULQ8DxWMtjO21oYlxG-texo2w8qMMezNp65wJ42r7Y1SQuc7e29pnCcFrUE51A_3_Dwzt7_JMqb0JeDFXqsMuP0CmNYFw83STZ8lTI" alt=""><figcaption></figcaption></figure>
 
@@ -40,9 +38,8 @@ Mobile Design Mode offers optimization settings that are exclusively applicable 
 * Spacer height
 * Text size
 
-Look for the mobile icon in the sidebar to identify these options. If there are no mobile-specific settings, the icon will be gray. Once you make changes to these settings, the icon will turn purple, indicating that changes have been made specifically for the mobile version of the design.\
-
+Look for the mobile icon in the sidebar to identify these options. If there are no mobile-specific settings, the icon will be gray. Once you make changes to these settings, the icon will turn purple, indicating that changes have been made specifically for the mobile version of the design.<br>
 
 <figure><img src="https://lh7-eu.googleusercontent.com/_1PE2YBLa84qTDLbS8tmbhYJH50huU0C87zKUupDSocuKxBSP5khgaW0V_SyylsmDpVxyb6apTaq50mh8DBjBRenAY_hiKnEZs-eetoKJcgqWd3P0S0mE5ceHeabZ3WUdffGp-oq6sdH2bP6dlH-Q6M" alt="" width="563"><figcaption></figcaption></figure>
 
-\
+<br>

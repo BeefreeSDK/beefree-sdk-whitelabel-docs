@@ -1,4 +1,4 @@
-# Quick Start Guide for Design Builder
+# Quick Start Guide for Content Builder
 
 ## Introduction
 
@@ -24,4 +24,4 @@ Navigate to the section that interests you. Each focuses on a different aspect o
 
 ## Notes on Images
 
-The images used in this document are from example implementations of the builder. Your user experience may vary significantly.\
+The images used in this document are from example implementations of the builder. Your user experience may vary significantly.<br>

@@ -14,8 +14,7 @@ The Paragraph and List content blocks are specialized tools designed to meet dis
 ## Advanced Features:
 
 * **Font Weight:** Toggle between regular and bold.
-* **Paragraph Spacing:** Adjust the space between paragraphs.\
-
+* **Paragraph Spacing:** Adjust the space between paragraphs.<br>
 
 <figure><img src="https://lh7-eu.googleusercontent.com/gJNStfLxJ9LWbu0NiqLmEn1ZxKb8DNQhHvTpR--etu7xAI2Llu2CrVSsvLOnFGi6qGHNH0aW7UcL0YxdPwIUBiDnCpCfCVtPLNM4tKZCrK1tDK9EhEwAGHHszmWw1VYa7RoQFBpNJi2DGsDVQlBNp7I" alt="" width="563"><figcaption></figcaption></figure>
 

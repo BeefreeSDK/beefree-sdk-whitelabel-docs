@@ -2,8 +2,7 @@
 
 #### Overview
 
-The builder comes with built-in AI capabilities that facilitate and enhance the content creation process. These features are capable of automating text generation and are compatible with various content blocks such as paragraphs, lists, buttons, and titles. The availability of these features may vary based on your specific application.\
-
+The builder comes with built-in AI capabilities that facilitate and enhance the content creation process. These features are capable of automating text generation and are compatible with various content blocks such as paragraphs, lists, buttons, and titles. The availability of these features may vary based on your specific application.<br>
 
 <figure><img src="https://lh7-eu.googleusercontent.com/FFusFRMjeg4qAUsN_BQ8CIPu_2qRMImFNsTI-d6HBZelvhdf243ttNZg-ZgPOI9PDFBuFXJkmgRbfN1uH233SUpdpJ2qK-uh3h7bxomE_ybsMj9pzKuNO85yjKOoNNM6IENzWmbrUbsomughF0DemCg" alt=""><figcaption></figcaption></figure>
 
@@ -38,4 +37,4 @@ Tokens are the units of text processed by the AI, essentially counting both your
 
 #### AI Model and Limitations
 
-The AI model used varies by application. Based on the integrated AI model, limitations may apply. \
+The AI model used varies by application. Based on the integrated AI model, limitations may apply. <br>

@@ -2,8 +2,7 @@
 
 #### Overview
 
-Adding GIF animations and animated stickers can make your emails and landing pages more engaging and enjoyable for the audience. Integrating this lively content is a simple drag-and-drop operation, and it's free.\
-
+Adding GIF animations and animated stickers can make your emails and landing pages more engaging and enjoyable for the audience. Integrating this lively content is a simple drag-and-drop operation, and it's free.<br>
 
 <figure><img src="https://lh7-eu.googleusercontent.com/u0ToYT_zVQCXOwWzuQnHmjdPXHtR6ghHTbjgGaEAd_yHQOpxDGcj68nPMGUPEEAf8nAhqkkXObzoF3OBmxuvS0m1Rp1WfY-DFsXBs2vTHpCI7GvLbKQ6IGtUXBhsRpZw77__a6jxKcT9Y9HC1tAO8cU" alt=""><figcaption></figcaption></figure>
 
@@ -22,4 +21,4 @@ Adding GIF animations and animated stickers can make your emails and landing pag
 
 The GIF and sticker galleries are provided by GIPHY, a popular platform for animated content. GIPHY describes itself as "the best way to search, share, discover, and create GIFs on the Internet." Their extensive collection allows you to find just about any type of animation to enhance your email or landing page.
 
-\
+<br>

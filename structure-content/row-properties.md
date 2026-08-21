@@ -8,12 +8,10 @@ Rows are foundational to your design, whether it's an email or a landing page. T
 
 To make changes to a row, you first need to select it:
 
-*   Hover: Move your mouse cursor over an empty space on the stage, usually to the left or right of the content area.\
-
+*   Hover: Move your mouse cursor over an empty space on the stage, usually to the left or right of the content area.<br>
 
     <figure><img src="https://lh7-eu.googleusercontent.com/9f4qsZ1Le4vEJiPql4npgcIk-e-eJQ9yhxroa1J4wcz7RjRYY0i2JEP3rbPRAT-1E8Wf6SFJeQaoZtHRRk_fd_M9Lf-JQ9bjUPGEf1OZwyLjwuh-hps3Aq1M4TsI64XMiIXiV5am6h2SE9bJaib8sXU" alt=""><figcaption></figcaption></figure>
-*   Click: Click outside the content area to select the entire row.\
-
+*   Click: Click outside the content area to select the entire row.<br>
 
     <figure><img src="https://lh7-eu.googleusercontent.com/K9fZpPKE1VCGNkNSVgSQdecAAa9VfBF_NnwfVosRumrFNyscJ5UgZsPTzIUNldJGdEsVQ1W6He-P8GmHmUCNlcSj8nvk46_Vc6fl65GO3oaCt3m7V0N_VwUIIoOFHUZvYmUipOzIHfdTtUZwc5DRkyE" alt=""><figcaption></figcaption></figure>
 
@@ -45,4 +43,4 @@ Creating dark-mode-friendly designs can be complex, but here are some key pointe
 
 By making the most of the Dark Mode Preview feature and adhering to these design guidelines, you'll be better equipped to produce emails that offer a consistent and appealing experience, regardless of your audience's device settings.
 
-\
+<br>

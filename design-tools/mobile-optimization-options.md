@@ -40,4 +40,4 @@ Not every design benefits from the default mobile settings. Vertical stacking ma
 
 Although the builder offers options to override default behaviors, it's generally recommended to allow vertical stacking for a more mobile-friendly layout. Nevertheless, the final decision rests on your design requirements and creativity.
 
-\
+<br>

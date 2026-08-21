@@ -2,8 +2,7 @@
 
 ## Overview
 
-The addition of the icon content block in the builder has made it more convenient to use text and images together, offering a cohesive way to enhance your designs. Icons serve as small, expressive elements that can accentuate your content, making the layout more interactive and visually appealing. Icons can replace or accompany traditional bullet points for a more visually compelling list.\
-
+The addition of the icon content block in the builder has made it more convenient to use text and images together, offering a cohesive way to enhance your designs. Icons serve as small, expressive elements that can accentuate your content, making the layout more interactive and visually appealing. Icons can replace or accompany traditional bullet points for a more visually compelling list.<br>
 
 <figure><img src="https://lh7-eu.googleusercontent.com/frFFQ9n73CW6TKpYJbiwu3ORkgRzcIzBcrxvSjMRj-l61U42SORuciW6g99ilaLr__qJ6NIVYi3Z55sHu5J_902_T4CcSQauyNiEF_rpQAtYo0WxXoEYV4Uw_H2tEg2bDGlOq4fNVwpydNUZnn1RmZg" alt=""><figcaption></figcaption></figure>
 

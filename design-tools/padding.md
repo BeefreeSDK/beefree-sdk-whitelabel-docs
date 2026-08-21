@@ -6,8 +6,7 @@ Padding serves as an essential tool for refining the aesthetics and readability 
 
 #### Default Padding Features
 
-By default, you can set the padding around an element for all sides simultaneously. \
-
+By default, you can set the padding around an element for all sides simultaneously. <br>
 
 <figure><img src="https://lh7-eu.googleusercontent.com/HOX1Z5hBDAvrkjNeZCPihzmtGrjQqsLlXA7pIa9nyIRJvgcvzI8F6gXnGS4HgwHmJVV6pJ-mMailC0tPWEhekXnqsz1Kv4_owudgkJjPkQiTFqDv-VommmBxkv-LqB_uW_j-eBKUyZ-FrIirrmFxerM" alt=""><figcaption></figcaption></figure>
 

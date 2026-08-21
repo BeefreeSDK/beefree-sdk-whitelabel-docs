@@ -76,6 +76,10 @@
 * [Co-editing in the Builder](team-collaboration/co-editing-in-the-builder.md)
 * [Content Locking](team-collaboration/content-locking.md)
 
+## QA tools
+
+* [Quality Check](qa-tools/quality-check.md)
+
 ## AI Tools for Content Creation
 
 * [Apply a Brand Tone](ai-tools-for-content-creation/apply-a-brand-tone.md)

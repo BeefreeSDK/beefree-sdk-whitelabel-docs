@@ -28,8 +28,7 @@ These settings bring cohesion to your design, ensuring elements like font famili
 
 #### Rows: Your Structural Backbone
 
-Rows serve as the foundational layout elements, defining the horizontal arrangement of sections within your design. \
-
+Rows serve as the foundational layout elements, defining the horizontal arrangement of sections within your design. <br>
 
 <figure><img src="https://lh7-eu.googleusercontent.com/_I4bE4SDk83Ig6aVetneBAGT9ZRpLryI95FJXr1TiXtZXj0x4WDQ-5o3mYqAhtP18-n3jEHIyxWxh1iWcZTG7Ja02kUfFjtbUsZZkYiWFt0Quw15dtQzbAYp7tH2PbRgT9uPyB-LcBUiHRD5bct44O8" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -47,13 +46,11 @@ Features include:
 
 Content Blocks are your go-to for adding specific elements to your design.&#x20;
 
-\
-
+<br>
 
 <figure><img src="https://lh7-eu.googleusercontent.com/e6d4ppk3w2TQK-Ym6_T7yJIepZDw_Dcmjwris7tFlDm8DLgMuNzynCZBKQvQ949pObnU11OzjbOCQpqscDER5Sbul79JXoduOsD3a5muO2-sHXSOol3-vFfzhMueIWD2OPNOD71FwzBQDjApJfxcsSQ" alt="" width="375"><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 Features include:
 
@@ -64,4 +61,4 @@ Features include:
 
 With these three main components—Settings, Rows, and Content Blocks—you have a powerful toolkit for crafting designs that are both cohesive and flexible.
 
-\
+<br>

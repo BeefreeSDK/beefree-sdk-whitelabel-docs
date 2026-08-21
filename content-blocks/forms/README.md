@@ -36,8 +36,7 @@ Here, you can add, edit, or rearrange up to ten types of form fields, such as:
 * Phone
 * Text
 * Long Text
-* URL\
-
+* URL<br>
 
 <figure><img src="https://lh7-eu.googleusercontent.com/4QhZKgtCVzuff95uBcg0wvijxrBHXnD_1tWH2yDtJi-Z5iqHvavY_rR4TAHzW5j2FYdZefX67k2KnfgBwNUAjeGTKO_gDnsopbYRbQ33e4t38_pDcNU_N0SVWvKCn9vAnZvpyBAmtEA-DprtHTj05PQ" alt="" width="563"><figcaption></figcaption></figure>
 

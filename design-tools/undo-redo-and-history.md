@@ -44,4 +44,4 @@ If you need to revert to a previous version of the entire design, there is usual
 
 Understanding how to use these Undo, Redo, and History features effectively will give you more freedom and confidence while editing, knowing that you can easily correct any mistakes or revisit earlier versions of your design.
 
-\
+<br>

@@ -2,8 +2,7 @@
 
 ### Overview
 
-The Settings tab in the builder provides a centralized location for setting up configurations that apply across your entire design. These settings range from mandatory options like content area width and alignment to optional ones like favicon and language settings. \
-
+The Settings tab in the builder provides a centralized location for setting up configurations that apply across your entire design. These settings range from mandatory options like content area width and alignment to optional ones like favicon and language settings. <br>
 
 <figure><img src="https://lh7-eu.googleusercontent.com/0i2ydGhSUOs0KnHbUn_Jynok3wEW_7quHkjENGgOyJ83TyQMWg9r-46-UintYVHtTLkQZpkBfN5w16s1voYx3ZWK_knmUcGMbM1UcILuN6tRFJkD3li7EuZrA9sPpAf0na8jrhBemafbuExncG7eplQ" alt=""><figcaption></figcaption></figure>
 
@@ -37,4 +36,4 @@ To apply these settings, navigate to the Settings tab in your builder. Fill in t
 
 
 
-\
+<br>

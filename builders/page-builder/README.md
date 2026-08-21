@@ -26,8 +26,7 @@ In addition to content differences, the Row options in the Page builder offer so
 The settings tab in the Page builder includes features optimized for web pages:
 
 * Wider Content Area: Given that web pages are often displayed on larger screens, the Page builder allows for content area widths of up to 1440px.
-* Favicon: This feature lets you upload a favicon (PNG, JPEG, or GIF formats), making it easier for users to identify your tab among others. You can upload or import the favicon through the file manager by clicking "Add favicon".\
-
+* Favicon: This feature lets you upload a favicon (PNG, JPEG, or GIF formats), making it easier for users to identify your tab among others. You can upload or import the favicon through the file manager by clicking "Add favicon".<br>
 
 <figure><img src="https://lh7-eu.googleusercontent.com/AQ5cTkDvQqHEef3CR5ey9AC-unehmCv9ifzdoaZeyV8pCMlsZ02hQuI5oXbc4q1UZJ4iHzoN_9PGIlMyYZeIdwOXdB5qNyAb8Wrm3HMZ94W6fjab39VMzYd9DhjihEsZ3XGppldN93oMqz8a_u_aGWk" alt=""><figcaption></figcaption></figure>
 
@@ -38,4 +37,4 @@ The settings tab in the Page builder includes features optimized for web pages:
 
 <figure><img src="https://lh7-eu.googleusercontent.com/6KWbgs-ScNekXaHnVTgLzODq4mwDLZFYDPB09LyzWISvyuhKcNi9jdGBakviMV8f8-bXKOcOss_EwkU_vgJTyFiDXgVwLiB-msFUSuqGanRh4WtPmQsaAxqpOSVf6ttZf9_5049EdyYasfdfZsWbFgM" alt="" width="563"><figcaption><p>Add a Favicon</p></figcaption></figure>
 
-\
+<br>

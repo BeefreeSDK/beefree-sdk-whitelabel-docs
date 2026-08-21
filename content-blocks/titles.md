@@ -2,8 +2,7 @@
 
 ## Overview
 
-The Title content block lets you implement header tags, creating a structured hierarchy within your design. This is beneficial for both web accessibility and SEO, without the need for custom HTML.\
-
+The Title content block lets you implement header tags, creating a structured hierarchy within your design. This is beneficial for both web accessibility and SEO, without the need for custom HTML.<br>
 
 <figure><img src="https://lh7-eu.googleusercontent.com/YcC_ggCJvxrmWnOmQ7ocWhBEulcPc9RWB1IdV1MX33KwpJsQzo5Crf_nk0hOuEjXi7oaO90BTFhTTbmp9v-_MdKtKveJquz0Us00BrEGMXrnAQ_lB_ietM6v0FHePPhTwn5G0-r2AzwmmTY-5ZsAXII" alt="" width="375"><figcaption></figcaption></figure>
 

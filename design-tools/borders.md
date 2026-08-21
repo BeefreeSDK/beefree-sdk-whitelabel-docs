@@ -23,4 +23,4 @@ When your row comprises multiple columns, you'll need to set borders for each on
 
 Consistency is key; if you're setting up borders for multiple columns, ensure that the style complements the overall design.
 
-\
+<br>

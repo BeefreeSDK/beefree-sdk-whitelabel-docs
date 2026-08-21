@@ -2,8 +2,7 @@
 
 ### What Are Saved Rows?
 
-Saved rows are pre-configured sections of design that you can store for future use in the builder. These rows could contain a variety of elements like text, images, or buttons, arranged in a specific way. They're a shortcut for adding complex structures you plan to reuse.\
-
+Saved rows are pre-configured sections of design that you can store for future use in the builder. These rows could contain a variety of elements like text, images, or buttons, arranged in a specific way. They're a shortcut for adding complex structures you plan to reuse.<br>
 
 <figure><img src="https://lh7-eu.googleusercontent.com/WLMQsRxYfUfl-JuJijgJv0467Xgj7ltzbhAlddx7UUSZZEM3UFxm3gvbJFF_vcSB4mnBbqYDci5A95wuAHPU64pWltx7rZr7QQPNyAj11NgGNaldiK7B-AATcFegwQ-IEyRUlfJehLfDsP2RqPHof24" alt=""><figcaption></figcaption></figure>
 
@@ -23,4 +22,4 @@ Key Characteristics:
 
 Using saved rows effectively can speed up your workflow, help maintain design consistency, and allow for greater creative flexibility.
 
-\
+<br>

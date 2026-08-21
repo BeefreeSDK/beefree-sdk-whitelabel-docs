@@ -35,7 +35,7 @@ In the builder, take the following steps to generate alt text in bulk:
 
 The following GIF displays an example of how to generate alt text in bulk within the builder.
 
-![](https://devportal.beefree.io/hc/article\_attachments/16720960392082)
+<img src="https://devportal.beefree.io/hc/article_attachments/16720960392082" alt="" height="267" width="602">
 
 ### Single Generation Steps <a href="#h_01hnegbp4dxn26t5hg4haenxh2" id="h_01hnegbp4dxn26t5hg4haenxh2"></a>
 
@@ -52,7 +52,7 @@ In the builder, take the following steps to generate a single alt text:
 
 The following GIF displays an example of how to generate a single alt text within the builder.
 
-#### ![](https://devportal.beefree.io/hc/article\_attachments/16720960392850) <a href="#h_01hnegbp4debcy3sd9vz2rn9g1" id="h_01hnegbp4debcy3sd9vz2rn9g1"></a>
+#### ![](https://devportal.beefree.io/hc/article_attachments/16720960392850) <a href="#h_01hnegbp4debcy3sd9vz2rn9g1" id="h_01hnegbp4debcy3sd9vz2rn9g1"></a>
 
 ### Token Limitations <a href="#h_01hnjnfww732g9b0zcyrmfcqbh" id="h_01hnjnfww732g9b0zcyrmfcqbh"></a>
 

@@ -21,7 +21,7 @@ Through the preview option, you can view how your design will look when coupled 
 
 * [Multi-language templates](../design-for-any-language/multi-language-templates.md): Applicable when you have one design available in multiple languages.
 * [Display conditions](../dynamic-content/display-conditions.md): Applicable when you have one or more rows in your design with display conditions applied.
-* [AMP or HTML view](broken-reference): This option is available when you have AMP in your email designs.
+* [AMP or HTML view](https://app.gitbook.com/s/DMLyfjkB9wlGPVOihGZz/dynamic-content): This option is available when you have AMP in your email designs.
 * [Dark mode](dark-mode-preview.md): Preview your design in dark mode.
 * [Desktop, tablet, or mobile view](mobile-design-mode.md): Preview your design on multiple device types.
 * **Custom viewport**: Customize the viewport window size for previewing your design within different window types.&#x20;

@@ -71,8 +71,7 @@ You successfully rounded the corners of the columns within the row.
 
 ### Vertical Alignment
 
-While this is a row-level setting, it's particularly useful for managing columns. If your columns contain different types of content, such as text and images, which might have different heights, vertical alignment can help you handle the empty space efficiently.\
-
+While this is a row-level setting, it's particularly useful for managing columns. If your columns contain different types of content, such as text and images, which might have different heights, vertical alignment can help you handle the empty space efficiently.<br>
 
 <figure><img src="https://lh7-eu.googleusercontent.com/VEeKtHaxJXH7TdCgvPnwDnUrr0i5AP7XeupkEAVeUenXWsRXfuBJ_7dmSyE_bfRsF8zIkIIpFhl3o0DCUSGhb01_I6I-CLpdyaOylm1oG7TRQMiMxUpBjDsgEr0Ksoy0VZCoy3inHiXrwPrYymUUec0" alt=""><figcaption></figcaption></figure>
 
@@ -82,4 +81,4 @@ For instance, suppose one column contains an image and another contains text, an
 
 <figure><img src="https://lh7-eu.googleusercontent.com/PrCoehmCk2JD9cePTTTxktw8oyeQF0ovamfz_eoU8RZ1GpMo_9sxMHFobSFFGTdGuTD0Hcqf-iZcH41Y6jhGo49MH1l8zzQqt-ksDCmeXIlSF1Cp4j54X-Pw4QVO8bN-XfLlx2ZzcCPPVmymXAykVp4" alt=""><figcaption></figcaption></figure>
 
-\
+<br>
